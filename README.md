@@ -107,12 +107,6 @@ multi_agent_research/
 ```
 
 ---
-## Contributing
-
-Contributions welcome! Please open an issue or pull request.
-```
-
----
 
 ## Testing Your Setup
 
